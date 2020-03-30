@@ -6,7 +6,7 @@
 node_modules/
 uploads/
 w/
-error_log
+*error_log
 
 # ignore composer vendor directory
 /vendor
