@@ -32,26 +32,10 @@ include("inc/header.php"); //head
 <section id="single-project">
     <div class="container content-section text-center">
     <div class="row">
-<div class="col-md-6">
-		<h2 id="0">Saints and Sinners Cabaret</h2>
-        <p>Family Weekend<br>Friday, October 18th @ 8pm | Saturday, October 19th @ 2pm</p>
-            <p><b>Tickets</b><br>FREE Admission</p>
-<br>
-    </div>
 
-<div class="col-md-6">
-        <h2 id="1">Pride and Prejudice</h2>
-    <div class="row">
-        <p>Friday, November 15th @ 8pm | Saturday, November 16th @ 8pm <br>Sunday, November 17th @ 2pm | 
-            Thursday, November 21st @ 8pm <br> Friday, November 22nd @ 8pm | Saturday, November 23rd @ 8pm</p>
-            <p><b>Tickets</b><br>$5 RPI Students | $10 Students/Seniors | $15 General Admission</p>
-            <a href="https://www.eventbrite.com/e/pride-and-prejudice-tickets-79551593959?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=79551593959" alt="Eventbrite - Pride and Prejudice" /></a>
-        <br><br>
-    </div>
-</div>
 
 </div>
-    </div>
+</div>
 </section>
 <!-- Footer -->
 <?php include("inc/footer.php"); //footer
