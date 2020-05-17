@@ -2,14 +2,14 @@
 deployment:
       tasks:
         - export DEPLOYPATH=/home/players/public_html  # Add /<app_folder> if required
-        - /bin cp -rf img/ $DEPLOYPATH               
-        - /bin cp -rf js/ $DEPLOYPATH 
-        - /bin cp -rf inc/ $DEPLOYPATH 
-        - /bin cp -rf img/ $DEPLOYPATH 
-        - /bin cp -f *.php $DEPLOYPATH 
-        - /bin cp -f *.shtml $DEPLOYPATH 
-        - /bin cp -f *.png $DEPLOYPATH 
-        - /bin cp -f *.xml $DEPLOYPATH 
-        - /bin cp -f *.ico $DEPLOYPATH 
-        - /bin cp -f *.txt $DEPLOYPATH 
-        - /bin cp -f *.svg $DEPLOYPATH 
+        - /bin/cp -rf img/ $DEPLOYPATH               
+        - /bin/cp -rf js/ $DEPLOYPATH 
+        - /bin/cp -rf inc/ $DEPLOYPATH 
+        - /bin/cp -rf img/ $DEPLOYPATH 
+        - /bin/cp -f *.php $DEPLOYPATH 
+        - /bin/cp -f *.shtml $DEPLOYPATH 
+        - /bin/cp -f *.png $DEPLOYPATH 
+        - /bin/cp -f *.xml $DEPLOYPATH 
+        - /bin/cp -f *.ico $DEPLOYPATH 
+        - /bin/cp -f *.txt $DEPLOYPATH 
+        - /bin/cp -f *.svg $DEPLOYPATH 
