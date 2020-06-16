@@ -38,37 +38,37 @@ include("inc/header.php"); //head
     <tbody>
       <tr>
         <td>Executive Producer</td>
-        <td>Jason Kellar</td>
+        <td>Reagan Stroka</td>
         <td><a href="mailto:players-ep@union.lists.rpi.edu">players-ep@union.lists.rpi.edu</a></td>
       </tr>
         <tr>
         <td>Artistic Director, Mainstage</td>
-        <td>Isabel Donelson</td>
+        <td>Sam O'Conner</td>
         <td><a href="mailto:players-ad@union.lists.rpi.edu">players-ad@union.lists.rpi.edu</a></td>
         </tr>
     <tr>
         <td>Artistic Director, Special Projects</td>
-        <td>Sam O'Connor</td>
+        <td>Maxwell Krantz</td>
         <td><a href="mailto:players-ad@union.lists.rpi.edu">players-ad@union.lists.rpi.edu</a></td>
         </tr>
     <tr>
         <td>Technical Director</td>
-        <td>Jeremy Brinker</td>
+        <td>Michael Honaker</td>
         <td><a href="mailto:players-td@union.lists.rpi.edu">players-td@union.lists.rpi.edu</a></td>
         </tr>
     <tr>
         <td>Treasurer</td>
-        <td>Michael Honaker</td>
+        <td>Alana Weiss</td>
         <td><a href="mailto:players-treasurer@union.lists.rpi.edu">players-treasurer@union.lists.rpi.edu</a></td>
         </tr>
     <tr>
         <td>Secretary</td>
-        <td>Reagan Stroka</td>
+        <td>Renée Roy</td>
         <td><a href="mailto:players-secretary@union.lists.rpi.edu">players-secretary@union.lists.rpi.edu</a></td>
         </tr>
     <tr>
         <td>Publicity Director</td>
-        <td>Alana Weiss</td>
+        <td>Daniel Ackermans</td>
         <td><a href="mailto:players-publicity@union.lists.rpi.edu">players-publicity@union.lists.rpi.edu</a></td>
         </tr>
     </tbody>
